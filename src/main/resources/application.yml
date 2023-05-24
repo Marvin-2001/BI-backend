@@ -89,5 +89,5 @@ cos:
 # 鱼聪明 AI 配置（https://yucongming.com/）
 yuapi:
   client:
-    access-key: tjk3ppclfgngl8zqqtl08pf9ksw9jxxs
-    secret-key: us733h3jnm9d60f0nqjx67ilwwsfaie9
+    access-key: 替换为你自己的 access-key
+    secret-key: 替换为你自己的 secret-key
